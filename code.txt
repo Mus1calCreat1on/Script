@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+<TITLE>About Me</TITLE>
+
+<HEAD>
+<link rel="stylesheet" href="style.css" />
+<h1>Layla Helton:<h3>A Musical Creation</h3></h1>
+</HEAD>
+
+<BODY>
+
+<img src="Me_and_Oliver.jpg" width="300" hieght="399" position="center"/>
+
+<p>
+<b>A Brief Introduction:</b>
+<br>
+<br>My name is Layla Helton and I am getting my degree in General Studies. My three areas of focus are English, Personal Finance and Technical Communication. 
+Although I began my career with Texas Tech as a music major, I had to switch to a degree plan that was able to be completed online once I moved back home. 
+I live in a small town about an hour south of Houston. In addition to work and school, my five-year-old son keeps me very busy.
+</p>
+
+<p>
+<b>Why am I a Musical Creation?</b>
+<br>
+<br>One reason is my obvious passion for music through study, enjoyment, and performance. The second more personal reason comes
+from my favorite Bible verse Zephaniah 3:17: 
+<br>
+<br><em>"For the Lord your God is with you, He is mighty to save. He will take great delight in you, He will quiet you 
+with His love, and He will rejoice over you with singing."</em> 
+<br>
+<br>
+I am a firm believer that God not only created me, but that He did so, singing all the time. In this way, I am His Musical Creation.
+</p>
+
+<p>
+<b>Looking Ahead:</b>
+<br>
+<br>Once I graduate in May, I plan to explore career options with the entertainment company Live Nation. Because Live Nation mainly handles the music side of entertainment, 
+I feel like I would be able to have a career in my true area of interest. I think that my best bet for their company is through my studies in Technical Communication. 
+By taking this course I hope to further diversify my skills and marketability. Perhaps I will wind up designing online promotions for upcoming events with Live Nation.
+</P>
+
+<p>
+<b>Web Design Know-how:</b>
+<br>
+<br>I have very little experience with designing web content unless you count personalizing a social media account. I have been on the testing side of web development with 
+a few programs that my office uses. I work in a government office processing the paperwork for district level law suits. The paperwork is submitted to us through an 
+online program that I helped test during development. We just recently began using a new function of this online program that allows our office to serve paperwork back 
+to the attorneys electronically.
+<br>
+<br>I now have three months of additional experience through this class having designed a personal website, written my own code for a form, and now employing CSS to this 
+bio page.
+</p>
+
+<p>
+<b>Bragging Rights:</b>
+<br>
+<br>I have received no awards in my adult life, but I still feel that I have plenty to brag about. I am often a featured soloist for church events, teach preschool choir,
+and was a member of the University Choir when attending Texas Tech on campus. Professionally, I am a hard worker, easily taught, knowledgable, and the clerk most saught 
+out by my judge. My love of music can only be matched by my nerdy tendencies for franchises such as Harry Potter, Star Wars, Lord of the Rings, The Legend of Zelda and 
+much more.
+</p>
+
+<audio src="22 The Dress.mp3"autoplay controls></audio>
+
+</BODY>

@@ -1,0 +1,40 @@
+	
+body {
+	background-color: black; 
+	background-image: url(Music_Notes_Green2.png);
+	background-repeat: no repeat;
+	
+}
+img {	position: relative;
+	left: 600px;
+}
+b {	color: #196628;
+	font: normal 16pt Comic Sans MS;
+}
+em {	color: #196628;
+	font: italic 10pt Comic Sans MS;
+	text-indent: 30px;
+}
+p {
+	background: #B0D777;
+	border: 2px solid grey;
+	padding: 5%;
+	width: 800px;
+	position: relative;
+	left: 300px;
+	color: #196628;
+	font: 100% Comic Sans MS, Impact, Times New Roman, serif;
+	clear: both;
+}
+h1 {
+	color: #196628;
+	font: bold 24pt Comic Sans MS;
+	position: relative;
+	left: 640px;
+}
+h3 {
+	color: #196628;
+	font: normal 18pt Comic Sans MS;
+	position: relative;
+	left: 630px;
+}
